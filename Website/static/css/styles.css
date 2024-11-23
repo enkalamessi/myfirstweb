@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(0, 38, 255);
+}
+
+.loginbut {
+    display: flex;                 /* Enable Flexbox */
+    justify-content: center;       /* Center horizontally */
+    align-items: center;           /* Center vertically */
+    height: 100vh;                 /* Full height viewport for demo */
+  }
+
+h1 {
+    color: red;
+}
+
+h1.make-green {
+    background-color: green;
+}
