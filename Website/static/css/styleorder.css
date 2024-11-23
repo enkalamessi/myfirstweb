@@ -1,0 +1,21 @@
+
+.cc_info {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; 
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto; 
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.cc_info input {
+    width: 100%; 
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
